@@ -1,6 +1,6 @@
 // 4. Crie uma função que receba um número e retorne o dobro desse número. //
 
-unction dobrar(a) {
+function dobrar(a) {
    return a + a
 }
 let resultado = dobrar(10);
