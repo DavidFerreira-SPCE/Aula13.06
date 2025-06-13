@@ -1,0 +1,1 @@
+// 12 Crie uma função que receba um texto e retorne o mesmo texto em letras maiúsculas.

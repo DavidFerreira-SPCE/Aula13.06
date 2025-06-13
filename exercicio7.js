@@ -6,5 +6,6 @@
 //   R = ((a + b + c) / 3)
 //   console.log("A média do aluno é: " + R)
 //};
+//media()
 
-media()
+// 7.Crie uma função que receba três notas de um aluno e retorne a média. //

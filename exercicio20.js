@@ -1,0 +1,1 @@
+// 20 Crie uma função que receba um array de nomes e exiba um cumprimento para cada nome no console. //

@@ -1,0 +1,1 @@
+// 16 Crie uma função que receba a base e a altura de um triângulo e retorne a sua área. //

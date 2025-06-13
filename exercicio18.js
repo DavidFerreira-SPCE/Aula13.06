@@ -1,0 +1,1 @@
+// 18 Crie uma função que receba um valor e um percentual e retorne o valor com o percentual aplicado (ex: desconto). //
