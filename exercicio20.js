@@ -13,4 +13,4 @@ cumprimentarNomes()
 
 // Respeitar as regras do array, se for string, coloque as aspas, se não for ai deixa inteiro
 // O contador é para auxiliar e não atrapalhar, as vezes declare antes de usar o contador, assim você fica mais direcionado, fazer um contador sem ter as variaveis lhe confundirá
-// com uma frequência muito alta
+// com uma frequência muito alta  

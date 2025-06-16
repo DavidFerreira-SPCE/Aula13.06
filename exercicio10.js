@@ -12,4 +12,4 @@ console.log(cambio(756).toFixed(2))
 // a exibição para uma determinada quantidade de casas decimais, utilize a correção toFixed(Valor) para corrigir a quantidade de decimais solicitado
 
 // No caso desse câmbio não era necessário fazer declaração de variavel em todos os espaços, somente na moeda que eu quero converter e o valor da moeda convertida para realizar
-// o cálculo
+// o cálculo  

@@ -6,4 +6,4 @@ function nascimento(ano = 2002) {
 }
 
 
-console.log("A idade é " + nascimento(1973) )
+console.log("A idade é " + nascimento(1973) ) 

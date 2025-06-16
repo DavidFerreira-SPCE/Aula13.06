@@ -9,4 +9,4 @@ function Texto(Nome) {
     return tamanho;
 }
 // O número será mostrado na tela
-console.log( "O Texto com espaços possui " + (Texto("David Ferreira Leandro Lima") + " caracteres"));
+console.log( "O Texto com espaços possui " + (Texto("David Ferreira Leandro Lima") + " caracteres"));  

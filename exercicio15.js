@@ -12,4 +12,4 @@ function verifNumeros(X){
     }
 }
 
-verifNumeros(1)
+verifNumeros(1)  

@@ -22,4 +22,4 @@ function Verif_Num(x = 0) {
     }
 }
 
-console.log(Verif_Num(0))
+console.log(Verif_Num(0)) 

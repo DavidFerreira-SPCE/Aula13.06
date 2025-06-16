@@ -12,4 +12,4 @@ function maior(highest,sec_highest ) {
         
 }
 
-(maior(1999,2880))
+(maior(1999,2880))  

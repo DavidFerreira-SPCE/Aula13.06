@@ -9,4 +9,4 @@ function desconto(valor) {
      return valor_final
 }
 
-console.log("Seu valor total da compra após a aplicação do benefício (desconto) de 10% aplicado ficaram no valor de: R$ " + desconto(382.50))
+console.log("Seu valor total da compra após a aplicação do benefício (desconto) de 10% aplicado ficaram no valor de: R$ " + desconto(382.50))  

@@ -6,4 +6,4 @@ function Texto(Nome) {
       //É uma função do JavaScript para colocar caixa alta
       return maiúsculas;
 }
-console.log("Mostrando a palavra em caixa alta: " + Texto("brilho eterno de uma mente sem lembranças"))
+console.log("Mostrando a palavra em caixa alta: " + Texto("brilho eterno de uma mente sem lembranças"))  

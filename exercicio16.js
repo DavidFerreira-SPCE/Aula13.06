@@ -7,4 +7,4 @@ function triangulo(base,altura) {
     return resultado
 }
 
-console.log("A área do triângulo é " + triangulo(8,10))
+console.log("A área do triângulo é " + triangulo(8,10))  

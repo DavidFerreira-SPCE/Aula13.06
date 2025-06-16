@@ -13,4 +13,4 @@ function Primo(P) {
         break;
     }
 }
-(Primo(10))
+(Primo(10))  

@@ -5,4 +5,4 @@ function media(a,b,c) {
    console.log("A média do aluno é: " + (parseFloat(R)))
 }
 
-(media(10,9,6))
+(media(10,9,6)) 

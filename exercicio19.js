@@ -12,4 +12,4 @@ let numeros = [12,5,66,48,21]
 let valor = 5
 
 
-console.log("A soma dos números é: " + somaElementos(numeros, valor));
+console.log("A soma dos números é: " + somaElementos(numeros, valor));  

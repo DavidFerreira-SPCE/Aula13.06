@@ -11,4 +11,4 @@ function idade(ano = idadeInformada) {
 }
 
 const idadeInformada =  23
-console.log(idade(idadeInformada))
+console.log(idade(idadeInformada))  

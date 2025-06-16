@@ -7,4 +7,4 @@ function expoente(A,B) {
     return resultado
 }
 
-console.log(expoente(5,3))
+console.log(expoente(5,3))  
