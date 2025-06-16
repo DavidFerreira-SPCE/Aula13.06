@@ -1,11 +1,8 @@
-//function media(R) {
-//   const prompt = require('prompt-sync')()
-//   let a = parseInt(prompt ("Digite a primeira nota: "))
-//   let b = parseInt(prompt ("Digite a segunda nota: "))
-//   let c = parseInt(prompt ("Digite a terceira nota: " )) 
-//   R = ((a + b + c) / 3)
-//   console.log("A média do aluno é: " + R)
-//};
-//media()
+// 7. Criar uma função que retorne a média do aluno //
 
-// 7.Crie uma função que receba três notas de um aluno e retorne a média. //
+function media(a,b,c) { 
+  R = ((a + b + c) / 3)
+   console.log("A média do aluno é: " + (parseFloat(R)))
+}
+
+(media(10,9,6))
